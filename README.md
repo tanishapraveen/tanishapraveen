@@ -9,7 +9,7 @@ I like building practical software, investigating how intelligent systems perfor
 ### CurrentZero — Cybersecurity Education & Analysis
 A platform designed to help people identify and understand phishing threats through analysis and clear explanations.
 
-**[Explore CurrentZero](https://currentzero.144-24-18-73.sslip.io/)** · [Project overview](#featured-project)
+**[Explore CurrentZero](https://currentzero.144-24-18-73.sslip.io/)**
 
 ## Research in progress
 
