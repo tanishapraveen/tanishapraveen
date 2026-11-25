@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tanisha! 👋
 
-<!--
-**tanishapraveen/tanishapraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer and independent researcher interested in **cybersecurity, trustworthy AI, and machine learning**.
 
-Here are some ideas to get you started:
+I like building practical software, investigating how intelligent systems perform under challenging conditions, and making technology more accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### CurrentZero — Cybersecurity Education & Analysis
+A platform designed to help people identify and understand phishing threats through analysis and clear explanations.
+
+**[Explore CurrentZero](https://currentzero.144-24-18-73.sslip.io/)** · [Project overview](#featured-project)
+
+## Research in progress
+
+- **TACTIC-TRACE** — Investigating how phishing-detection approaches respond to evolving and modified attacks.
+- **DigitalLife** — Exploring early warning models and adaptive observation strategies in simulated ecological systems.
+
+*Both studies are ongoing; experimental results and code will be linked when ready to share.*
+
+## Other projects
+
+- **Student Lens: Youth Pulse** — An interactive civic technology prototype exploring ways student perspectives could inform local government decisions. Currently a proposed pilot, not an official city service.
+
+## Technologies
+
+**Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS  
+**Tools and frameworks:** FastAPI, Next.js, Playwright, Git/GitHub, Firebase, Vercel
+
+## Beyond coding
+
+I also contribute to STEM education through hands-on learning resources and workshops introducing students and community members to technology, AI, and cybersecurity.
+
+---
+
+*Interested in AI reliability, practical cybersecurity, and technology with real-world impact.*
