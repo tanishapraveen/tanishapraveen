@@ -2,11 +2,11 @@
 
 I'm a student developer and independent researcher interested in cybersecurity, trustworthy AI, and machine learning**.
 
-I like building practical software, investigating how intelligent systems perform under challenging conditions, and making technology more accessible.
+I like building practical software, investigating how intelligent systems perform under challenging conditions, and making technology more accessible to all.
 
 ## Featured project
 
-### CurrentZero — Cybersecurity Education & Analysis
+### CurrentZero:
 A platform designed to help people identify and understand phishing threats through analysis and clear explanations.
 
 **[Explore CurrentZero](https://currentzero.144-24-18-73.sslip.io/)**
@@ -15,8 +15,6 @@ A platform designed to help people identify and understand phishing threats thro
 
 - **TACTIC-TRACE**:  Investigating how phishing-detection approaches respond to evolving and modified attacks.
 - **DigitalLife**: Exploring early warning models and adaptive observation strategies in simulated ecological systems.
-
-*Both studies are ongoing; experimental results and code will be linked when ready to share.*
 
 ## Other projects
 
@@ -30,7 +28,3 @@ A platform designed to help people identify and understand phishing threats thro
 ## Beyond coding
 
 I also contribute to STEM education through hands-on learning resources and workshops introducing students and community members to technology, AI, and cybersecurity.
-
----
-
-*Interested in AI reliability, practical cybersecurity, and technology with real-world impact.*
