@@ -1,6 +1,6 @@
-# Hi, I'm Tanisha! 👋
+# Hi, I'm Tanisha!
 
-I'm a student developer and independent researcher interested in **cybersecurity, trustworthy AI, and machine learning**.
+I'm a student developer and independent researcher interested in cybersecurity, trustworthy AI, and machine learning**.
 
 I like building practical software, investigating how intelligent systems perform under challenging conditions, and making technology more accessible.
 
@@ -13,14 +13,14 @@ A platform designed to help people identify and understand phishing threats thro
 
 ## Research in progress
 
-- **TACTIC-TRACE** — Investigating how phishing-detection approaches respond to evolving and modified attacks.
-- **DigitalLife** — Exploring early warning models and adaptive observation strategies in simulated ecological systems.
+- **TACTIC-TRACE**:  Investigating how phishing-detection approaches respond to evolving and modified attacks.
+- **DigitalLife**: Exploring early warning models and adaptive observation strategies in simulated ecological systems.
 
 *Both studies are ongoing; experimental results and code will be linked when ready to share.*
 
 ## Other projects
 
-- **Student Lens: Youth Pulse** — An interactive civic technology prototype exploring ways student perspectives could inform local government decisions. Currently a proposed pilot, not an official city service.
+- **Student Lens: Youth Pulse**: An interactive civic technology prototype exploring ways student perspectives could inform local government decisions. Currently a proposed pilot, not an official city service.
 
 ## Technologies
 
