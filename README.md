@@ -1,6 +1,6 @@
 # Hi, I'm Tanisha!
 
-I'm a student developer and independent researcher interested in cybersecurity, trustworthy AI, and machine learning**.
+I'm a student developer and independent researcher interested in cybersecurity, trustworthy AI, and machine learning.
 
 I like building practical software, investigating how intelligent systems perform under challenging conditions, and making technology more accessible to all.
 
